@@ -3,7 +3,7 @@
 
 In the era of retail investors and Robinhood being at the epicenter of all frenzy investing chaos, if retail investors wonder "can we download all our transactions history?", then the answer is, unfortunately, 'no'.
 
-So, using this [article](https://anonovation.medium.com/how-to-download-your-robinhood-transaction-history-357b1ff4df15) as a reference, I have created this JavaScript that helps to download all transaction history from Robinhood very easily.
+So, using this [article](https://anonovation.medium.com/how-to-download-your-robinhood-transaction-history-357b1ff4df15) as a reference, I have enhanced the JavaScript that helps to download all transaction history from Robinhood very easily.
 
 
 
