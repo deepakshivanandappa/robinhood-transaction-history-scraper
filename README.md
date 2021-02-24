@@ -1,4 +1,4 @@
-# rh-transaction-history-scraper
+# robinhood-transaction-history-scraper
 
 In the era of retail investors and robinhood being at the epicenter of all frenzy investing chaos, if retail investors wonder "can we download all our transactions history?", then answer is unfortunately 'no'.
 
